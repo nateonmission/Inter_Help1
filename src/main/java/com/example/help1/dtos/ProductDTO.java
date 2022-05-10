@@ -1,2 +1,4 @@
-package com.example.help1.dtos;public class ProductDTO {
+package com.example.help1.dtos;
+
+public class ProductDTO {
 }

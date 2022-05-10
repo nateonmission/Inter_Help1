@@ -1,2 +1,4 @@
-package com.example.help1.repositories;public interface Order {
+package com.example.help1.repositories;
+
+public interface OrderRepo {
 }
